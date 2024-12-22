@@ -1,0 +1,27 @@
+*{
+    font-family:"Lucida Handwriting", cursive;
+    background-color: antiquewhite;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    font-weight: bold;
+    
+}
+
+img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+p,
+ul,
+ol{
+    font-size:medium;
+}
